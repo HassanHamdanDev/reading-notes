@@ -1,5 +1,7 @@
 # reading-notes
 
+
+
 # Growth Mindset
 
 A growth mindset believes that one's fundamental abilities can be developed through perseverance and effort. In a fixed mindset, intelligence and talent are seen as fixed traits, 
