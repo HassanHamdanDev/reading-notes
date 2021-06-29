@@ -10,8 +10,9 @@ So excited to take this journey
 
 ``` 
                     My Site Structure
+ ``` 
 
-```
+
 Reads | Link
 ------------ | -------------
 Growth Mindset | [Growth Mindset](Growth)
