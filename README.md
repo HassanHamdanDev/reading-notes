@@ -15,7 +15,7 @@ So excited to take this journey
 Reads | Link
 ------------ | -------------
 Growth Mindset | [Growth Mindset](Growth)
-Read-01 | [Read-01](Read-01)
+Read-01 | [Read-01](Read-01.md)
 Read-02 | [Read-02](Read-02)
 
 
