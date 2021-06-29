@@ -7,8 +7,7 @@ I Want to switch career and become a *Full Stack Developer*
 So excited to take this journey 
 
 
-
-``` 
+ ``` 
                     My Site Structure
  ``` 
 
