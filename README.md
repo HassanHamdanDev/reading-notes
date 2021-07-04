@@ -15,9 +15,13 @@ So excited to take this journey
 Reads | Link
 ------------ | -------------
 Growth Mindset | [Growth Mindset](Growth.md)
-Read-01 | [Read-01](Read-01.md)
-Read-02 | [Read-02](Read-02.md)
-
+Markdown | [Read-01](Read-01.md)
+GIT | [Read-02](Read-02.md)
+Structure web pages with HTML | [Read-03](Read-03.md)
+Dynamic web pages with JavaScript | [Read-04](Read-04.md)
+Operators and Loops | [Read-05](Read-05.md)
+Design web pages with CSS | [Read-06](Read-06.md)
+Programming with JavaScript | [Read-07](Read-07.md)
 
 
  
