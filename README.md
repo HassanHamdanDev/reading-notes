@@ -1,4 +1,4 @@
-# reading-notes
+# Reading-Notes
 
 
 
@@ -21,11 +21,8 @@ Structure web pages with HTML | [Read-03](Read-03.md)
 Dynamic web pages with JavaScript | [Read-04](Read-04.md)
 Operators and Loops | [Read-05](Read-05.md)
 Design web pages with CSS | [Read-06](Read-06.md)
-<<<<<<< HEAD
 Programming with JavaScript | [Read-07](Read-07.md)
-=======
 
->>>>>>> c5b047849d46278b8d8e443c46211fb461c261d6
 
 
  
