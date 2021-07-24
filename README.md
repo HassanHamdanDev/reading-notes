@@ -14,7 +14,7 @@ So excited to take this journey
  - ## Code 102 Reading Notes  
 
 
-Reads | Link
+**Reads** | **Link**
 ------------ | -------------
 Growth Mindset | [Growth Mindset](Growth.md)
 Markdown | [Read-01](Read-01.md)
@@ -28,7 +28,7 @@ Programming with JavaScript | [Read-07](Read-07.md)
 - ## Code 201 Reading Notes
 
 
-Reads | Link
+**Reads** | **Link**
 ------------ | -------------
  Introductory HTML and JavaScript | [Class-01](Class-01.md)
  | []()
