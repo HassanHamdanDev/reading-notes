@@ -11,7 +11,7 @@ So excited to take this journey
                     My Site Structure
  ``` 
 
-
+- ## Code 102 Reading Notes                                                                                        
 Reads | Link
 ------------ | -------------
 Growth Mindset | [Growth Mindset](Growth.md)
@@ -23,7 +23,24 @@ Operators and Loops | [Read-05](Read-05.md)
 Design web pages with CSS | [Read-06](Read-06.md)
 Programming with JavaScript | [Read-07](Read-07.md)
 
-
+- ## Code 201 Reading Notes
+Reads | Link
+------------ | -------------
+ | []()
+ | []()
+ | []()
+ | []()
+ | []()
+ | []()
+ | []()
+ | []()
+ | []()
+ | []()
+ | []()
+ | []()
+ | []()
+ | []()
+ | []()
 
  
 
