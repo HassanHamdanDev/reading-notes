@@ -31,7 +31,7 @@ Programming with JavaScript | [Read-07](Read-07.md)
 **Reads** | **Link**
 ------------ | -------------
  Introductory HTML and JavaScript | [Class-01](Class-01.md)
- | []()
+ Basics of HTML, CSS & JS | [Class-02](Class-02.md)
  | []()
  | []()
  | []()
