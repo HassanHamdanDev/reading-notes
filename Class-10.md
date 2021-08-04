@@ -1,7 +1,7 @@
 # Debugging
 
 
-## 
+## Error Handling & Debugging 
 
 ```
 
@@ -50,3 +50,4 @@ How code can deal with
 potential errors gracefully. 
 
 ```
+
